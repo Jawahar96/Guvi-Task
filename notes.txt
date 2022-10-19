@@ -1,0 +1,10 @@
+document Object:
+It is represents the web page loaded in the browser .We can access the document in the html page
+It can add dynamic content to our web page.
+document.propertyname [example document.title ]  
+
+Window Object:
+ window object represents the browser window.
+ If a document contain frames (<iframe> tags), the browser creates one window object for the HTML document, 
+ and one additional window object for each frame.
+ Window.propertyname [examples window.innerheight ] Methods:window.close().etc 
